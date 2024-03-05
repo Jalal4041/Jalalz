@@ -7,7 +7,7 @@ These are save files, where there is a response to each command that will be run
 
 # Usage
 
-1- git clone https://github.com/MrPYTHONI/Varnish_Fastly_Scan
+1- git clone https://github.com/Jalal4041/Jalalz.git
 
 2- cd Varnish_Fastly_Scan
 
@@ -35,9 +35,6 @@ $ HTTP/1.1 200 OK
 2- python3 Varnish_Fastly_200.py -f ipv4.txt -t 100
 
 # My accounts on Telegram for communication
-$ 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩
-https://t.me/PYT_HON3
-
-https://t.me/Mr_PYT_HON
+$
 
 
